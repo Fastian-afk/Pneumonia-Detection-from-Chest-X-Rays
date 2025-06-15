@@ -14,7 +14,6 @@ The goal is to understand **where the model focuses** when diagnosing pneumonia,
 - ✅ Easy-to-modify code for other datasets or layers
 - ✅ Saves heatmaps as PNGs for sharing/reporting
 
----
 
 ## 📁 Folder Structure
 
@@ -25,10 +24,6 @@ chest-xray-gradcam/
 ├── transforms.py # X-ray image preprocessing
 ├── utils.py # CAM logic & visualization
 └── gradcam_outputs/ # Saved heatmap images
-
-yaml
-Copy
-Edit
 
 ## 📦 Requirements
 
