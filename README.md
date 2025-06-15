@@ -50,12 +50,9 @@ Edit
 python main.py
 All heatmaps will be saved to gradcam_outputs/.
 
-📸 Sample Output
-NORMAL Case	PNEUMONIA Case
-
-🤖 Credits
+🤖 Credits:
 Created by Imaad Fazal — Knowledge Discovery & Data Science Lab
 Roll No: 23I-0656
 
-📜 License
+📜 License:
 This project is open source under the MIT License.
