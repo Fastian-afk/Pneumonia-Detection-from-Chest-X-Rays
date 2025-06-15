@@ -4,7 +4,6 @@ This project visualizes attention maps using **Grad-CAM** on a ResNet18 model tr
 
 The goal is to understand **where the model focuses** when diagnosing pneumonia, providing interpretability and transparency to deep learning in healthcare.
 
----
 
 ## 🔍 Features
 
